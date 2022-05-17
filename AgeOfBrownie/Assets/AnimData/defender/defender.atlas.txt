@@ -1,0 +1,62 @@
+
+defender.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backhead
+  rotate: false
+  xy: 2, 192
+  size: 210, 181
+  orig: 212, 183
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 2, 66
+  size: 124, 135
+  orig: 126, 137
+  offset: 1, 1
+  index: -1
+foot_l
+  rotate: false
+  xy: 139, 99
+  size: 82, 91
+  orig: 85, 93
+  offset: 2, 1
+  index: -1
+foot_r
+  rotate: true
+  xy: 139, 39
+  size: 58, 85
+  orig: 61, 87
+  offset: 2, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 375
+  size: 234, 231
+  orig: 236, 234
+  offset: 1, 2
+  index: -1
+leg_l
+  rotate: true
+  xy: 2, 17
+  size: 47, 76
+  orig: 49, 78
+  offset: 1, 1
+  index: -1
+leg_r
+  rotate: false
+  xy: 80, 2
+  size: 49, 62
+  orig: 51, 64
+  offset: 1, 1
+  index: -1
+shield
+  rotate: false
+  xy: 2, 611
+  size: 217, 283
+  orig: 219, 285
+  offset: 1, 1
+  index: -1

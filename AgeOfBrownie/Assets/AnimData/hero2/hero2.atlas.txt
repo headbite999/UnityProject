@@ -1,0 +1,111 @@
+
+hero2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backhair
+  rotate: false
+  xy: 2, 149
+  size: 586, 529
+  orig: 586, 529
+  offset: 0, 0
+  index: -1
+ball_1
+  rotate: false
+  xy: 150, 2
+  size: 159, 145
+  orig: 161, 147
+  offset: 1, 1
+  index: -1
+ball_2
+  rotate: false
+  xy: 150, 2
+  size: 159, 145
+  orig: 161, 147
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 11
+  size: 146, 235
+  orig: 148, 237
+  offset: 1, 1
+  index: -1
+hand_l
+  rotate: false
+  xy: 311, 57
+  size: 95, 90
+  orig: 97, 92
+  offset: 1, 1
+  index: -1
+hand_r
+  rotate: false
+  xy: 1214, 25
+  size: 85, 79
+  orig: 87, 81
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 590, 181
+  size: 419, 497
+  orig: 422, 499
+  offset: 1, 1
+  index: -1
+jacket_b
+  rotate: true
+  xy: 1011, 342
+  size: 336, 296
+  orig: 336, 296
+  offset: 0, 0
+  index: -1
+jacket_l
+  rotate: true
+  xy: 1011, 106
+  size: 234, 336
+  orig: 234, 336
+  offset: 0, 0
+  index: -1
+jacket_r
+  rotate: false
+  xy: 1309, 267
+  size: 184, 329
+  orig: 184, 329
+  offset: 0, 0
+  index: -1
+lazor_1
+  rotate: false
+  xy: 485, 65
+  size: 524, 111
+  orig: 528, 115
+  offset: 2, 2
+  index: -1
+lazor_2
+  rotate: true
+  xy: 1495, 146
+  size: 532, 76
+  orig: 535, 78
+  offset: 1, 1
+  index: -1
+leg_l
+  rotate: false
+  xy: 1349, 69
+  size: 96, 196
+  orig: 96, 196
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 1009, 19
+  size: 85, 202
+  orig: 85, 202
+  offset: 0, 0
+  index: -1
+second
+  rotate: false
+  xy: 2, 256
+  size: 70, 75
+  orig: 73, 77
+  offset: 2, 1
+  index: -1

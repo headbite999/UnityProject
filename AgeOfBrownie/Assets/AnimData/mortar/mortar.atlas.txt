@@ -1,0 +1,83 @@
+
+mortar.png
+size: 256,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backhead
+  rotate: false
+  xy: 2, 289
+  size: 212, 183
+  orig: 212, 183
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 163
+  size: 124, 135
+  orig: 126, 137
+  offset: 1, 1
+  index: -1
+foot_l
+  rotate: false
+  xy: 139, 196
+  size: 82, 91
+  orig: 85, 93
+  offset: 2, 1
+  index: -1
+foot_r
+  rotate: true
+  xy: 2, 53
+  size: 58, 85
+  orig: 61, 87
+  offset: 2, 1
+  index: -1
+hand_l
+  rotate: false
+  xy: 140, 114
+  size: 69, 80
+  orig: 72, 82
+  offset: 2, 1
+  index: -1
+hand_r
+  rotate: false
+  xy: 140, 41
+  size: 73, 71
+  orig: 75, 73
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 2, 474
+  size: 234, 231
+  orig: 236, 234
+  offset: 1, 2
+  index: -1
+leg_l
+  rotate: false
+  xy: 89, 35
+  size: 47, 76
+  orig: 49, 78
+  offset: 1, 1
+  index: -1
+leg_r
+  rotate: true
+  xy: 2, 2
+  size: 49, 62
+  orig: 51, 64
+  offset: 1, 1
+  index: -1
+mortar
+  rotate: false
+  xy: 2, 710
+  size: 219, 299
+  orig: 221, 302
+  offset: 1, 2
+  index: -1
+mortar_under
+  rotate: true
+  xy: 2, 113
+  size: 48, 136
+  orig: 51, 138
+  offset: 1, 1
+  index: -1

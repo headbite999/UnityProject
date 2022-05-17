@@ -1,0 +1,20 @@
+
+base.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 223
+  size: 855, 1164
+  orig: 857, 1167
+  offset: 1, 1
+  index: -1
+flag
+  rotate: true
+  xy: 2, 2
+  size: 219, 263
+  orig: 221, 265
+  offset: 1, 1
+  index: -1

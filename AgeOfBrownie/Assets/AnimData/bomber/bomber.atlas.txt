@@ -1,0 +1,90 @@
+
+bomber.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backhead
+  rotate: true
+  xy: 238, 141
+  size: 212, 183
+  orig: 212, 183
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 423, 218
+  size: 124, 135
+  orig: 126, 137
+  offset: 1, 1
+  index: -1
+flame_1
+  rotate: true
+  xy: 84, 57
+  size: 63, 98
+  orig: 63, 98
+  offset: 0, 0
+  index: -1
+flame_2
+  rotate: 270
+  xy: 144, 13
+  size: 60, 92
+  orig: 60, 92
+  offset: 0, 0
+  index: -1
+foot_l
+  rotate: true
+  xy: 238, 50
+  size: 89, 90
+  orig: 91, 92
+  offset: 1, 1
+  index: -1
+foot_r
+  rotate: false
+  xy: 330, 54
+  size: 65, 85
+  orig: 67, 87
+  offset: 1, 1
+  index: -1
+hand_l
+  rotate: true
+  xy: 2, 51
+  size: 69, 80
+  orig: 72, 82
+  offset: 2, 1
+  index: -1
+hand_r
+  rotate: false
+  xy: 397, 20
+  size: 73, 71
+  orig: 75, 73
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 122
+  size: 234, 231
+  orig: 236, 234
+  offset: 1, 2
+  index: -1
+jetpack
+  rotate: false
+  xy: 416, 93
+  size: 131, 123
+  orig: 133, 125
+  offset: 1, 1
+  index: -1
+leg_l
+  rotate: false
+  xy: 472, 15
+  size: 47, 76
+  orig: 49, 78
+  offset: 1, 1
+  index: -1
+leg_r
+  rotate: true
+  xy: 330, 3
+  size: 49, 62
+  orig: 51, 64
+  offset: 1, 1
+  index: -1

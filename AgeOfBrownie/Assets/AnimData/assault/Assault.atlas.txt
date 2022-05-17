@@ -1,0 +1,111 @@
+
+Assault.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backhead
+  rotate: true
+  xy: 238, 136
+  size: 210, 181
+  orig: 212, 183
+  offset: 1, 1
+  index: -1
+body
+  rotate: true
+  xy: 294, 10
+  size: 124, 135
+  orig: 126, 137
+  offset: 1, 1
+  index: -1
+bullet_1
+  rotate: false
+  xy: 165, 4
+  size: 214, 4
+  orig: 216, 6
+  offset: 1, 1
+  index: -1
+bullet_2
+  rotate: false
+  xy: 2, 2
+  size: 161, 14
+  orig: 164, 17
+  offset: 2, 2
+  index: -1
+bullet_3
+  rotate: false
+  xy: 238, 355
+  size: 91, 12
+  orig: 93, 14
+  offset: 1, 1
+  index: -1
+fire_1
+  rotate: false
+  xy: 421, 341
+  size: 67, 17
+  orig: 69, 20
+  offset: 1, 1
+  index: -1
+fire_2
+  rotate: false
+  xy: 421, 295
+  size: 90, 44
+  orig: 93, 46
+  offset: 2, 1
+  index: -1
+foot_l
+  rotate: false
+  xy: 421, 136
+  size: 77, 88
+  orig: 79, 90
+  offset: 1, 1
+  index: -1
+foot_r
+  rotate: false
+  xy: 431, 51
+  size: 58, 83
+  orig: 60, 85
+  offset: 1, 1
+  index: -1
+gun
+  rotate: false
+  xy: 2, 18
+  size: 290, 116
+  orig: 293, 118
+  offset: 2, 1
+  index: -1
+gunHand_l
+  rotate: false
+  xy: 421, 226
+  size: 73, 67
+  orig: 75, 69
+  offset: 1, 1
+  index: -1
+gunHand_r
+  rotate: true
+  xy: 500, 115
+  size: 51, 32
+  orig: 53, 34
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 136
+  size: 234, 231
+  orig: 236, 234
+  offset: 1, 2
+  index: -1
+leg_l
+  rotate: true
+  xy: 431, 2
+  size: 47, 76
+  orig: 49, 78
+  offset: 1, 1
+  index: -1
+leg_r
+  rotate: false
+  xy: 491, 51
+  size: 49, 62
+  orig: 51, 64
+  offset: 1, 1
+  index: -1
